@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #Xwaydah 
-#BY : Alexcerus HR
+#BY : Lucifer HR
 # Demo video : https://www.youtube.com/watch?v=3-COy9OeS_o
 
 sleep 3
